@@ -1,0 +1,71 @@
+h1{
+    color: rgb(4, 41, 73);
+    text-align: center;
+    margin-block-end: 50px;
+}
+.planes, .tecnicaturas{
+    color: rgb(201, 0, 0);
+    background-color: rgb(0, 255, 234);
+    text-decoration: none;
+    display: block ;
+    width:30% ;
+}
+.texto{
+   display: inline-block;
+   background-image: url('business_logo.png');
+   height: 140px;
+   width: 100%;
+   opacity: 0.8;
+   background-repeat: no-repeat;
+   background-position: right;
+   text-align: left;
+   top: 0px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 19px;
+   
+}
+article a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    color: rgb(12, 12, 12);
+}
+.planes{
+    display: inline-block;
+    margin-top: 4%;
+    margin-left: 1%;
+    padding-left: 5%;
+    padding-bottom: 1%;
+    background-image: url('zoom2.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 65%;
+
+}
+.tecnicaturas{
+    display: inline-block;
+   background-image: url('entrada.jpg');
+   margin-top: 5%;
+   margin-left: 35%;
+   text-align: center;
+   background-size: auto;
+   background-repeat: no-repeat;
+   background-position: left;
+   width: 65%;
+}
+ul{
+    list-style-type: none;
+}
+.reseñas{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+.contact{
+    margin-bottom: 5%;
+}
+body{
+    background-color: rgba(7, 137, 212, 0.356);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 100%;
+}
